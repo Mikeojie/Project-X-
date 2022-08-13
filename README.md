@@ -45,3 +45,5 @@ As mentioned above, there are many ways to host your project for free. Recommend
 - [Netlify](https://www.netlify.com/)
 
 I did use Github pages and Netlify to host this project
+# Netlify domain
+https://ornate-cactus-a1f85a.netlify.app/
